@@ -17,7 +17,7 @@ after_success:
   - docker build -t mshahomar/multi-docker-server ./server
   - docker build -t mshahomar/multi-docker-worker ./worker
 
-  # Log in to the docker CLI 
+  # Log in to the docker CLI  
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
   # Take these images and push it to docker hub
   - docker push mshahomar/multi-docker-client
