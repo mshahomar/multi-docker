@@ -1,6 +1,6 @@
 # Multi-Container Docker
 
-This repo is for Section 10 of <a href="https://www.udemy.com/docker-and-kubernetes-the-complete-guide">"Docker & Kubernetes: The Complete Guide"</a> course on Udemy, by <a href="https://www.udemy.com/user/sgslo/">Stephen Grider</a>.
+This repo is for Section 10 of <a href="https://www.udemy.com/share/100r4uBEcbeVtSRQ==/">"Docker & Kubernetes: The Complete Guide"</a> course on Udemy, by <a href="https://www.udemy.com/user/sgslo/">Stephen Grider</a>.
 
 ## Directory Structure
 <pre>
